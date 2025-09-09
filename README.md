@@ -2,18 +2,14 @@
 
 Coming soon page for imaginary.foundation
 
-## Email Capture Setup
+## Status
 
-Currently using placeholder for Formspree. To activate:
+✅ Live at GitHub Pages  
+✅ Email capture connected via Formspree
 
-1. Sign up at [formspree.io](https://formspree.io)
-2. Create a new form
-3. Replace `YOUR_FORM_ID` in index.html with your form ID
-4. Deploy
+## Tech
 
-Alternative free options:
-- [Web3Forms](https://web3forms.com) - No signup required, just an access key
-- [Netlify Forms](https://www.netlify.com/products/forms/) - If hosting on Netlify
-- [Getform](https://getform.io) - 50 submissions/month free
-
-Or roll your own with a simple endpoint.
+- Pure HTML/CSS
+- No JavaScript
+- No build process
+- ~1KB total
