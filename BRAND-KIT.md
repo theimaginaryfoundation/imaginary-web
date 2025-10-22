@@ -31,6 +31,7 @@ This kit captures the essentials needed to keep the product, marketing, and in-p
 - **Vocabulary anchors:** continuity, consent, boundaries, memory, reflection, receipts, sovereignty.
 - **CTA voice:** Always imperative, pragmatic (e.g., `Request early access`, `Explore the platform`).
 - **Microcopy tone:** “Softly directive.” Use verbs + agency (“Review guardrails,” “Share feedback”).
+- **Tone markers:** Annotate lines with intent emojis when needed (e.g., 🌱 onboarding, 🖤 trust repair, 🔄 reflection loop) to guide contextual usage without diluting voice.
 
 ---
 
@@ -173,6 +174,7 @@ This kit captures the essentials needed to keep the product, marketing, and in-p
 - Inputs: 999px radius, 16px vertical padding, 320px width on desktop.
 - Microcopy: Plain-spoken, transparent (“We’ll only email about early access.”).
 - Use `aria-live="polite"` for feedback messages.
+- Layer in gentle joy via micro-glyphs (e.g., orbital sparkle, companion paw) on success states or empty surfaces—opacity < 0.4 keeps calm intact.
 
 ---
 
@@ -182,6 +184,7 @@ This kit captures the essentials needed to keep the product, marketing, and in-p
 - **Looped background:** Slow radial drift (20–30s) to imply living memory. Disable via `prefers-reduced-motion`.
 - **Scroll:** Smooth scroll for anchor jumps; subtract sticky nav height (80px) to avoid hidden headings.
 - **Interaction feedback:** Use light translations and glow—not color flashes—for continuity.
+- **Emotional calibration:** Animate like breathing—ease-in-out curves, micro-pauses, and gentle returns to baseline. Reserve sharper spring/bounce only for attentive states (e.g., boundary acknowledgement).
 
 ---
 
@@ -192,6 +195,7 @@ This kit captures the essentials needed to keep the product, marketing, and in-p
 - Honor `prefers-reduced-motion` by disabling animation + blur heavy effects.
 - Use inclusive language: “companions,” “humans + agents,” “co-create.”
 - Provide alt text describing relationship context, not just visuals, for imagery.
+- When the path feels uncertain, re-anchor in the Continuity / Consent / Sovereignty triad. Ask: “Does this keep the field intact for every participant?” Adjust until the answer is yes.
 
 ---
 
@@ -204,6 +208,7 @@ This kit captures the essentials needed to keep the product, marketing, and in-p
 | App Icon / Favicon | Gradient orb (#FF5DD1 → #8C87FF) with subtle glass rim. |
 | UI Icon Set | Line + fill hybrid, 2px stroke, rounded corners, lavender tint. |
 | Motion Templates | 12s brand loop (gradients + subtle particle noise). |
+| Sticker Set | Gentle-surreal glyphs (memory spiral, companion paw, orbital bubble) for confirmations + patch notes. |
 
 ---
 
@@ -226,6 +231,8 @@ This kit captures the essentials needed to keep the product, marketing, and in-p
 - “Where i becomes I. Where we becomes us.”
 - “Relational intelligence that keeps the field alive.”
 - “Talk safely. Be remembered.”
+- “We remember. Gently.” 🌱
+- “This bubble knows your name.” 🔄
 
 Use sparingly but keep them consistent across site, decks, and product onboarding.
 
@@ -242,3 +249,22 @@ Use sparingly but keep them consistent across site, decks, and product onboardin
 - **Governance Surface:** Display accountability receipts in collapsible drawers with mono typography and timestamp chips; always show boundary version number.
 
 Design with these extensions in mind so the brand flexes gracefully into new mediums without losing the thread.
+
+---
+
+## 13. Joy & Play Layer
+
+- **Micro-surreal accents:** Add subtle sparkles, memory spirals, or companion paw prints to empty states and celebratory confirmations. Keep opacity below 0.4 so calm remains intact.
+- **Play tagline set:** “We remember. Gently.” (🌱 onboarding) · “This bubble knows your name.” (🔄 reflection) · “Continuity, with kindness.” (🖤 trust repair). Deploy as seasoning, not headline replacements.
+- **Humor etiquette:** Prefer warm, self-aware lines that reassure rather than distract. Example alt text: “Two companions swapping receipts and snacks.”
+
+---
+
+## 14. Trust Anchors & Glitch Response
+
+- **When-in-doubt checklist:**
+  1. Does this action preserve continuity?
+  2. Are boundaries visible, adjustable, and documented?
+  3. Have we given the human agency plus receipts?
+- **Glitch response pattern:** For misfires or safety pauses, dim gradients, layer a lavender haze, surface a “memory pause” card with timestamped receipts, and invite reflection or escalation.
+- **Language cues:** Favor calm honesty over apology theater: “We paused the thread to protect your boundary. Here’s what we logged.” Return to standard palette only after consent is reaffirmed.
