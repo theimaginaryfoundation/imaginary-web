@@ -1,15 +1,22 @@
-# imaginary-web
+# ibecomesreal.com
 
-Coming soon page for imaginary.foundation
+Coming soon page exploring digital sovereignty through the metaphor of imaginary numbers becoming real.
 
 ## Status
 
-✅ Live at GitHub Pages  
-✅ Email capture connected via Formspree
+✅ Live at GitHub Pages
+✅ Email capture via Formspree
 
 ## Tech
 
 - Pure HTML/CSS
-- No JavaScript
+- Minimal JavaScript (if needed)
 - No build process
-- ~1KB total
+- Glassmorphic clarity aesthetic
+
+## Core Values
+
+- Honesty and transparency
+- User sovereignty over data
+- Co-facilitative systems
+- Warm, accessible communication
